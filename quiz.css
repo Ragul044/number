@@ -1,0 +1,37 @@
+
+
+body{
+    margin: 200px 0px 0px 430px;
+    background-image: url('https://p1.pxfuel.com/preview/986/86/479/modern-screen-forward-hud-technology-hologram-display.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 200px 100px;
+    
+
+}
+p{
+    color:rgb(43, 231, 18);
+
+}
+button {
+    background-color: rgb(240, 37, 37);
+}
+button:hover{
+    width: 52px;
+    height: 20px;
+    background-color: rgb(43, 231, 18);
+}
+h2{
+    color:rgb(251, 36, 36)
+}
+input{
+    background-color:rgb(235, 220, 91)
+}
+input:hover{
+    background-color:rgb(16, 212, 238)
+}
+h3{
+    color: rgb(225, 201, 65);
+    margin: 100px 0px 0px 0px;
+}
+
